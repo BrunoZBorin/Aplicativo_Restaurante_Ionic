@@ -1,0 +1,84 @@
+{
+  "produtos": [
+    {
+      "nome": "Xburguer",
+      "tipo": "Hamburguer",
+      "id": 1,
+      "valor": 9,
+      "valortxt": "9,00",
+      "dia": "todos",
+      "imagem": "http://www.adjorisc.com.br/polopoly_fs/1.1945058.1478708338!/imagens/14787083657160.jpg"
+    },
+    {
+      "nome": "Pastelão",
+      "tipo": "Presunto e queijo",
+      "id": 2,
+      "valor": 3.9,
+      "valortxt": "3,90",
+      "dia": "todos",
+      "imagem": "http://www.euamoarrozefeijao.com.br/wp-content/uploads/2015/03/pastel.png"
+    },
+    {
+      "nome": "XsaladaXX",
+      "tipo": "Hamburguer",
+      "valor": 10,
+      "valortxt": "10,00",
+      "dia": "todos",
+      "imagem": "http://www.adjorisc.com.br/polopoly_fs/1.1945058.1478708338!/imagens/14787083657160.jpg",
+      "id": 3
+    },
+    {
+      "nome": "XsaladaXX",
+      "tipo": "Hamburguer",
+      "valor": 10,
+      "valortxt": "10,00",
+      "dia": "todos",
+      "imagem": "http://www.adjorisc.com.br/polopoly_fs/1.1945058.1478708338!/imagens/14787083657160.jpg",
+      "id": 4
+    },
+    {
+      "nome": "XsaladaXX",
+      "tipo": "Hamburguer",
+      "valor": 10,
+      "valortxt": "10,00",
+      "dia": "todos",
+      "imagem": "http://www.adjorisc.com.br/polopoly_fs/1.1945058.1478708338!/imagens/14787083657160.jpg",
+      "id": 5
+    },
+    {
+      "nome": "Xburguer",
+      "tipo": "Hamburguer",
+      "valor": 9,
+      "valortxt": "9,00",
+      "dia": "todos",
+      "imagem": "http://www.adjorisc.com.br/polopoly_fs/1.1945058.1478708338!/imagens/14787083657160.jpg",
+      "id": 6
+    },
+    {
+      "nome": "Xburguer",
+      "tipo": "Hamburguer",
+      "valor": 9,
+      "valortxt": "9,00",
+      "dia": "todos",
+      "imagem": "http://www.adjorisc.com.br/polopoly_fs/1.1945058.1478708338!/imagens/14787083657160.jpg",
+      "id": 7
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "Bruno Zanelatti Borin",
+      "endereco": "Dulce de Abreu Colombera 478",
+      "cpf": "30073717835",
+      "senha": "123456",
+      "id": 1
+    },
+    
+    {
+      "nome": "Juliane Ferreira Borin",
+      "endereco": "Avalon",
+      "cpf": "777",
+      "senha": "1234",
+      "id": 2
+    }
+  ]
+}

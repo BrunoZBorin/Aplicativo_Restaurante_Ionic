@@ -1,0 +1,7 @@
+{
+  "name": "viviapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
